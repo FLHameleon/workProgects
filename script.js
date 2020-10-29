@@ -1,5 +1,6 @@
 //////////////////////////////////////////////////////////////Отрисовка поля
 var tablPole = document.querySelector('table')
+var strKodaInner = 'test'
 
 var strKodaInner = ''
 
