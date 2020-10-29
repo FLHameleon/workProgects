@@ -1,0 +1,18 @@
+.about {
+
+    display: table-cell;
+    width: 30px;
+    height: 30px;
+    border: 1px solid black;
+    background: white;
+}
+
+.byfer {
+    width: 100px;
+    height: 100px;
+    border: 2px solid transparent;
+    border-radius: 100%;
+    background: transparent;
+    float: left;
+border: 2px solid black;
+}
